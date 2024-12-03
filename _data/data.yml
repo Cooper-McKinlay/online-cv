@@ -148,9 +148,9 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     intro: |
-      Developing skills with Git, Markdown, HTML5, CSS, soldering, and working with RF.
-      Fully proficient with the Microsoft Office and Google Docs Editors suites.
-      Creative problem-solving skills.
+     - Developing skills with Git, Markdown, HTML5, CSS, soldering, and working with RF.
+     - Fully proficient with the Microsoft Office and Google Docs Editors suites.
+     - Creative problem-solving skills.
     
 #    toolset:
 #      - name: Markdown
