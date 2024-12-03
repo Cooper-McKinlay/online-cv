@@ -58,6 +58,7 @@ career-profile:
     title: Career Profile
     summary: |
       Breaking into the engineering space as a paid intern with GenExergy Foundation Inc.
+      
 education:
     title: Education
     info:
@@ -66,6 +67,7 @@ education:
         time: 
         details: |
           Currently enrolled at HCC.
+          
 experiences:
     title: Experience
     info:
@@ -74,6 +76,7 @@ experiences:
         company: GenExergy Foundation, Inc.
         details: |
           Assists president Cameron Hunt in finding innovative solutions relating to the Persistant Coastal Science Initiative (PCSI) and inspiring inter-generational cooperation.
+          
 #CERTIFICATION TEMPLATE
 #certifications:
       #title: 
@@ -146,6 +149,7 @@ skills:
     title: Skills &amp; Proficiency
     intro: >
     Developing skills with Git, Markdown, HTML5, CSS, soldering, and working with RF.
+    
    # toolset:
      # - name: Markdown
        # level: 98%
